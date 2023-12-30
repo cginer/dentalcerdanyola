@@ -13,7 +13,7 @@ Estimado/a paciente,
 
 Por la presente pongo en su conocimiento que nuestra Clínica Dental M. Dolores Delgado López ha cerrado sus puertas y ha dejado de prestar sus servicios a consecuencia de la jubilación de su titular Dra. M. Dolores Delgado López.
 
-De conformidad con lo dispuesto en el Reglamento 2016/679 del Parlamento Europeo y del Consejo (RGPD), y lo dispuesto en la Ley Orgánica 3/2018 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, Dra. M. Dolores Delgado López, como Responsable de Tratamiento, le informa de lo siguien
+De conformidad con lo dispuesto en el Reglamento 2016/679 del Parlamento Europeo y del Consejo (RGPD), y lo dispuesto en la Ley Orgánica 3/2018 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, Dra. M. Dolores Delgado López, como Responsable de Tratamiento, le informa de lo siguiente:
 
 Con el fin de salvaguardar la confidencialidad, integridad y disponibilidad de sus datos médicos y personales como lo exige la normativa sanitaria estatal y autonómica de aplicación, su Historia Clínica será custodiada y conservada durante los plazos legales establecidos en dicha normativa aplicable por la Dra. M. Dolores Delgado López como Responsable de las mismas.
 
@@ -23,5 +23,5 @@ Usted podrá dirigirse mediante escrito, acompañado de copia de documento ofici
 
 Sin otro particular, reciba un cordial saludo.
 
-M. Dolores Delgado López
+M. Dolores Delgado López<br>
 Col. COEC nº 1608 Barcelona
