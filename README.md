@@ -17,7 +17,7 @@ De conformidad con lo dispuesto en el Reglamento 2016/679 del Parlamento Europeo
 
 Con el fin de salvaguardar la confidencialidad, integridad y disponibilidad de sus datos médicos y personales como lo exige la normativa sanitaria estatal y autonómica de aplicación, su Historia Clínica será custodiada y conservada durante los plazos legales establecidos en dicha normativa aplicable por la Dra. M. Dolores Delgado López como Responsable de las mismas.
 
-Una vez cumplido dicho plazo, los datos serán destruidos. Hasta ese momento, su historia clínica permanecerá a su disposición por si considera necesario recibir sus datos; en ese caso, le serán entregados. En el caso de necesitar los datos para aportarlos al especialista al que encomiende la continuidad asistencial, por razones operativas, sería conveniente que solicite un informe de su historia clínica, a poder ser, dentro de los próximos seis meses. 
+Una vez cumplido dicho plazo, los datos serán destruidos. Hasta ese momento, su historia clínica permanecerá a su disposición por si considera necesario recibir sus datos; en ese caso, le serán entregados.
 
 Usted podrá dirigirse mediante escrito, acompañado de copia de documento oficial que le identifique, para solicitar el ejercicio de los derechos de acceso, rectificación, supresión, limitación del tratamiento y portabilidad, en los términos de los artículos 15 a 23 del RGPD al correo electrónico contacto@dentalcerdanyola.com o teléfono (+34) 657 15 90 69 así como presentar una reclamación ante la Agencia Española de Protección de Datos www.aepd.es, en caso de no ver satisfechos sus derechos.
 
